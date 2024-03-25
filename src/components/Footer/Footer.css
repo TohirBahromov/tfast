@@ -1,0 +1,28 @@
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px 30px;
+}
+footer span{
+  font-size: 12px;
+}
+.links ul{
+  display: inline-flex;
+  list-style-type: none;
+  gap: 10px;
+}
+.links ul a{
+  border-radius: 5px;
+  border:2px solid var(--dark-bg);
+  color: var(--dark-bg);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.layout.dark footer .links ul a{
+  color: var(--dark-txt);
+  border: 2px solid var(--dark-txt);
+}

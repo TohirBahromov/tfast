@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.layout{
+  transition: .2s;
+  color: var(--dark-bg);
+  background-color: #f1f1f1;
+}
+
