@@ -15,7 +15,7 @@ const contents : IContents = [
   },
   {
     id:3,
-    text:"Kompyuter (inglizcha: computer - „hisoblayman“) - oldindan berilgan dastur bo'yicha ishlaydigan avtomatik qurilma. Elektron hisoblash mashinasi (EHM) bilan bir xildagi atama.Biroq, kompyuter hisoblash ishlarini bajarishdan tashqari uning funksiyasi ancha keng."
+    text:"Kompyuter (inglizcha: computer - hisoblayman) - oldindan berilgan dastur bo'yicha ishlaydigan avtomatik qurilma. Elektron hisoblash mashinasi (EHM) bilan bir xildagi atama.Biroq, kompyuter hisoblash ishlarini bajarishdan tashqari uning funksiyasi ancha keng."
   },
   {
     id:4,
@@ -27,11 +27,11 @@ const contents : IContents = [
   },
   {
     id:6,
-    text:"Falsafa, filosofiya - insonning dunyoda tutgan o'rni va dunyoqarashining yaxlit tizimini ifodalovchi ma'naviy faoliyatining bir shakli. Milodiy 2—3-asrlarda o'tgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi bo'lib o'zini „filosof“ deb atagan."
+    text:"Falsafa, filosofiya - insonning dunyoda tutgan o'rni va dunyoqarashining yaxlit tizimini ifodalovchi ma'naviy faoliyatining bir shakli. Milodiy 2—3-asrlarda o'tgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi bo'lib o'zini filosof deb atagan."
   },
   {
     id:7,
-    text:"Futbol (inglizcha: football; foot - „oyoq“, ball - „to'p“) - sport o'yini. O'yindan maqsad-to'pni raqib darvozasiga kiritish. Bunga har bir jamoadagi darvozabon xalaqit berishga intiladi."
+    text:"Futbol (inglizcha: football, foot - oyoq, ball - to'p) - sport o'yini. O'yindan maqsad-to'pni raqib darvozasiga kiritish. Bunga har bir jamoadagi darvozabon xalaqit berishga intiladi."
   },
   {
     id:8,
